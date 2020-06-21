@@ -7,7 +7,7 @@ define('FRESHRSS_WEBSITE', 'https://freshrss.org');
 define('FRESHRSS_WIKI', 'https://freshrss.github.io/FreshRSS/');
 
 define('FRESHRSS_PATH', __DIR__);
-define('PUBLIC_PATH', FRESHRSS_PATH . '/htdocs');
+define('PUBLIC_PATH', FRESHRSS_PATH . '/p');
 define('PUBLIC_TO_INDEX_PATH', '/i');
 define('INDEX_PATH', PUBLIC_PATH . PUBLIC_TO_INDEX_PATH);
 define('PUBLIC_RELATIVE', '..');
